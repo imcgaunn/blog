@@ -39,8 +39,6 @@
       postsDiv.appendChild(postDiv);
       postsDiv.appendChild(document.createElement("hr"));
 
-      (function() { document.body.style.backgroundImage="url('http://www.maxistentialism.com/bees/oprahbees.gif')"; })();
-
     });
   }
 
